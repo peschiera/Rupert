@@ -27,8 +27,8 @@ int Umbral=100;
 //int UmbralS2=40;
 
 //Velocidades motores (maximo valor posible 255)
-int Vmed1=140;   //Velocidad medio
-int Vmed2=120;   //Velocidad medio
+int Vmed1=140;   //Velocidad media
+int Vmed2=110;   //Velocidad media
 int Vatras=100; //Velocidad para atras
 void setup() { //se ejecuta una sola vez
   Serial.begin(9600);
